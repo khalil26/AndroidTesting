@@ -7,7 +7,7 @@ import static com.example.android.quakereport.R.id.magnitude;
  * Created by HP on 01/01/2018.
  */
 
-public class Earthquake {
+public class Earthquake  {
     private double mMagnitude;
     private String mLocation;
     private long mTimeInMilliseconds;
